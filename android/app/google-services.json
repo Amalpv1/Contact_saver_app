@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080202476477",
+    "project_id": "contact-saver-8f364",
+    "storage_bucket": "contact-saver-8f364.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080202476477:android:e89de4f37c85e3265270d4",
+        "android_client_info": {
+          "package_name": "com.wonder.contact_saver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080202476477-u69g78n10pehecnti83r7p77n3nun0v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAGfcFI51JGFJvcGqtE6lfQIqMsdt-iPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080202476477-u69g78n10pehecnti83r7p77n3nun0v5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
